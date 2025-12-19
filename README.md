@@ -1,2 +1,2 @@
 # odin-recipes
-Practice recipe site using basic HTML
+Practice recipe site using basic HTML. I created an index that links out to three different recipes pages, each on their own HTML document. For each page, I located a royalty free image from Wikimedia Commons, then found a recipe online. I practiced recreating each recipe myself, emulating the style of the original site where I had to skills - at this point, limited to a combination of headers, lists (ordered and unordered), paragraphs, strong text, and em text.
